@@ -1,0 +1,7 @@
+# 核心依赖
+langchain
+langchain-openai
+openai
+python-dotenv
+langchain-community
+pydantic
